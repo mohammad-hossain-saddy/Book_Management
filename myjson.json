@@ -1,5 +1,24 @@
 {
-  "name: "Namaz",
-  "category": "namaaz",
-  
+  "name": "namaz",
+  "items": [
+    {"category": "hadis", "Hadis 1" : "Hadis details1"},
+    {"category": "hadis", "Hadis 2" : "Hadis details2"},
+    {"category": "hadis", "Hadis 3" : "Hadis details3"},
+    {"category": "hadis", "Hadis 1" : "Hadis details1"},
+    {"category": "hadis", "Masala 1" : "Masala1 details"},
+    {"category": "hadis", "Masala 2" : "Masala2 details"},
+    {"category": "hadis", "Masala 3" : "Masala3 details"},
+    {"category": "Sarait", "Masala 4" : "Masala4 details"},
+    {"category": "Sarait", "Masala 5" : "Masala5 details"},
+    {"category": "faraiz", "Masala 1" : "Masala1 details"},
+    {"category": "faraiz", "Masala 2" : "Masala2 details"},
+    {"category": "Wajibaat", "Masala 3" : "Masala3 details"},
+    {"category": "Sunnat", "Masala 4" : "Masala4 details"},
+    {"category": "Mustahabat", "Masala 5" : "Masala5 details"},
+    {"category": "Makruhat", "Masala 4" : "Masala4 details"},
+    {"category": "sawal", "Sawal 1" : "Sawal details"},
+    {"category": "sawal", "Sawal 2" : "Sawal details"},
+    {"category": "sawal", "Sawal 3" : "Sawal details"}
+  ],
+  "string": "Hello World"
 }
